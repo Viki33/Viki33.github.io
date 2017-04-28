@@ -1,5 +1,7 @@
 div.arriere-plan {
-  background: url('https://i0.wp.com/www.madmoisellejulie.fr/wp-content/uploads/2015/11/noir-1.jpg?resize=640%2C400')
+  background: url('https://i0.wp.com/www.madmoisellejulie.fr/wp-content/uploads/2015/11/noir-1.jpg?resize=640%2C400');
+  margin: 100px;
+  padding: 100px;
 }  
 
 h1 {
