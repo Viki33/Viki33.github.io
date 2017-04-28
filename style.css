@@ -16,3 +16,14 @@ h1 {
   width: 50%;
 }
 
+div.container3 {
+   height: 10em;
+   position: relative 
+}   
+
+div.container3 p {
+   margin: 0;
+   position: absolute;             
+   top: 50%;   
+  }
+
