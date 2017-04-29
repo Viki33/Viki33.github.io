@@ -18,17 +18,7 @@ h1 {
 }
 
 div.container2 {
-  	background: linear-gradient(45deg, rgba(255,184,115,0.65) 0%,rgba(255,124,189,0.65) 50%,rgba(108,0,153,0.65) 100%);
-	border-radius: 2px;
-	box-shadow: 0px 2px 4px rgba(34,62,66,.25);
-  color: #fff;
-  font-size: 18px;
-  letter-spacing: 1px;
-  padding: 16px 32px;
-  text-decoration: none;
-  text-transform: uppercase;
-  -webkit-transition: box-shadow 1s ease;
-	transition: box-shadow 1s ease;
+	color: #fff;
 }
 
 a.style1 {
@@ -40,17 +30,17 @@ a.style1 {
 a.style2 {
   position: absolute;
   top: 50px;
-  left: 100px;
+  left: 250px;
 }
 
 a.style3 {
   position: absolute;
   top: 50px;
-  left: 150px;
+  left: 450px;
 }
 
 a.style4 {
   position: absolute;
   top: 50px;
-  left: 200px;
+  left: 650px;
 }
