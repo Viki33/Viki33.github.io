@@ -1,11 +1,12 @@
 div.arriere-plan {
   background: url('https://tse2.mm.bing.net/th?id=OIP.6ocoek4TkAlkIX52Nqj6dQEsCo&pid=15.1&P=0&w=274&h=155');
-  width:200px;
+  position: absolute;
+  width: 200px;
   height: 200px
 }  
 
 h1 {
-  color: Blue;
+  color: Red;
   font-family: 'Lucidatypewriter', monospace;
   font-size: 52px;
   font-weight: 900;
