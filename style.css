@@ -17,3 +17,26 @@ h1 {
   left: 100px;
 }
 
+a.style1 {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
+
+a.style2 {
+  position: absolute;
+  top: 50px;
+  left: 100px;
+}
+
+a.style3 {
+  position: absolute;
+  top: 50px;
+  left: 150px;
+}
+
+a.style4 {
+  position: absolute;
+  top: 50px;
+  left: 200px;
+}
