@@ -1,46 +1,12 @@
-div.arriere-plan {
-  background: url('https://tse2.mm.bing.net/th?id=OIP.6ocoek4TkAlkIX52Nqj6dQEsCo&pid=15.1&P=0&w=274&h=155');
-  position: absolute;
-  width: 1300px;
-  height: 1000px;
-}  
+a {
+  color: SeaGreen;
+  text-decoration: none;
+}
+
+img {
+  border-radius: 100%;
+}
 
 h1 {
-  color: Blue;
-  font-family: 'Lucidatypewriter', monospace;
-  font-size: 52px;
-  font-weight: 900;
-  line-height: 46px;
-  text-align: center;
-  position: absolute;
-  top: 250px;
-  left: 100px;
-}
-
-div.container2 {
-	color: #fff;
-}
-
-a.style1 {
-  position: absolute;
-  top: 50px;
-  left: 50px;
-}
-
-a.style2 {
-  position: absolute;
-  top: 50px;
-  left: 250px;
-}
-
-a.style3 {
-  position: absolute;
-  top: 50px;
-  left: 450px;
-}
-
-a.style4 {
-  position: absolute;
-  top: 50px;
-  left: 650px;
-}
+	text-align: center;
+	}
