@@ -8,6 +8,8 @@ html, body {
   text-align: center;
   position: relative;
   top: 100px;
+  background: url("https://tse1.mm.bing.net/th?id=OIP.LJ48M8y6e9F35tlMg_2rMQEsCo&pid=15.1&P=0&w=321&h=181") no-repeat center center;
+  background-size: cover;
 }
 
 .btn {
