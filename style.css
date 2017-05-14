@@ -10,3 +10,7 @@ html, body {
   top: 100px;
 }
 
+.btn {
+  padding: 8px 30px;
+  display: inline-block;
+}
