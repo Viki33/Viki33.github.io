@@ -11,6 +11,7 @@ html, body {
   text-align: center;
   background: url("http://www.amazingwallpaperz.com/wp-content/uploads/Rock-Guitar-Wallpaper-Free-Download.jpg") no-repeat center center;
   background-size: cover;
+  height: 800px;
  }
 
 .main .container {
