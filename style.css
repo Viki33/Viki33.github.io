@@ -16,6 +16,7 @@ html, body {
 
 .main .container {
   position: relative;
+  top: 100px;
 }
 
 .main .btn {
