@@ -38,7 +38,7 @@ a.btn:hover {
   width: 100%;
   text-align: center;
   position: fixed;
-  z-index: 999;
+  z-index: 1;
 }
 
 .navigation li{
