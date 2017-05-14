@@ -5,15 +5,26 @@ html, body {
 .container {
   max-width: 940px;
   margin: 0 auto;
-  text-align: center;
-  position: relative;
-  top: 100px;
-  background: url("https://tse1.mm.bing.net/th?id=OIP.LJ48M8y6e9F35tlMg_2rMQEsCo&pid=15.1&P=0&w=321&h=181") no-repeat center center;
-  background-size: cover;
 }
 
-.btn {
+.main {
+    text-align: center;
+  background: url("http://www.amazingwallpaperz.com/wp-content/uploads/Rock-Guitar-Wallpaper-Free-Download.jpg") no-repeat center center;
+  background-size: cover;
+  height: 600px;
+ }
+
+.main .container {
+  position: relative;
+  top: 100px;
+}
+
+.main .btn {
+  background-color: #1c1c1c;
+  color: #fff;
+  font-size: 18px;
   padding: 8px 30px;
+  text-decoration: none;
   display: inline-block;
 }
 
