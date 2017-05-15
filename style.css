@@ -14,11 +14,6 @@ html, body {
   height: 700px;
  }
 
-.main .container {
-  position: relative;
-  top: 100px;
-}
-
 .main .btn {
   background-color: #1c1c1c;
   color: #fff;
@@ -35,7 +30,7 @@ a.btn:hover {
   }
 
 .navigation {
-  position: relative;
+  position: static;
   background-color: Black;
   width: 100%;
   text-align: center;
