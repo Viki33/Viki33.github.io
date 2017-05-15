@@ -38,3 +38,14 @@ a.btn:hover {
   position: relative;
   top: 1500px;
   }
+
+.navigation {
+  background-color: Black;
+  width: 100%;
+  text-align: center;
+}
+
+.navigation li{
+  color: White;
+  display: inline;
+}
