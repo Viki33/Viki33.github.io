@@ -32,7 +32,8 @@ a.btn:hover {
   }
 
 .navigation {
-  position: static;
+  position: relative;
+  bottom: 900px;
   background-color: Black;
   width: 100%;
   text-align: center;
