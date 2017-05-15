@@ -35,5 +35,6 @@ a.btn:hover {
   }
 
 .navigation {
-  top: 900px;
+  position: relative;
+  top: 1500px;
   }
