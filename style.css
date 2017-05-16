@@ -12,6 +12,7 @@ html, body {
  position: absolute;
  top: 100px;
  text-align: center;
+ width: 100%;
 }
 
 .container {
