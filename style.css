@@ -11,8 +11,11 @@ html, body {
 .main {
  position: absolute;
  top: 100px;
- left: 100px;
  text-align: center;
+}
+
+.container {
+  text-align: center;
 }
 
 .main .btn {
