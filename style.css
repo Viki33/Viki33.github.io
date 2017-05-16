@@ -33,6 +33,8 @@ a.btn:hover {
   position: absolute;
   top: 0; left: 0;
   background-color: Black;
+  text-align: center
+  width: 100%;
 }
 
 .navigation li{
@@ -40,7 +42,3 @@ a.btn:hover {
   display: inline-block;
 }
 
-.navigation ul {
-    list-style-type: none;
-    text-align: center ;
-}
