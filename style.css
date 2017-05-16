@@ -21,21 +21,19 @@ html, body {
   color: #fff;
   font-size: 18px;
   padding: 8px 30px;
-  text-decoration: none;
+  text-decoration: none;  
   display: inline-block;
 }
 
 a.btn:hover {
   background:#ffa800;
   color:#000;
-
   }
 
 .navigation {
   position: relative;
   bottom: 900px;
   background-color: Black;
-  width: 100%;
   text-align: center;
 }
 
