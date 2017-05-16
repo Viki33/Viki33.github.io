@@ -9,10 +9,9 @@ html, body {
 }
 
 .main {
+ position: absolute;
+ top: 100px;
  text-align: center;
- height: 20em;
- line-height: 20em;
- white-space: nowrap 
 }
 
 .main .btn {
