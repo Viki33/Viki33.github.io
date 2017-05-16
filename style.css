@@ -33,10 +33,14 @@ a.btn:hover {
   position: absolute;
   top: 0; left: 0;
   background-color: Black;
-  text-align: center;
 }
 
 .navigation li{
   color: White;
-  display: inline;
+  display: inline-block;
+}
+
+.navbar ul {
+    list-style-type: none;
+    text-align: center ;
 }
