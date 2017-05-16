@@ -39,10 +39,14 @@ a.btn:hover {
   background-color: Black;
   text-align: center;
   width: 100%;
+  line-height: 0px;
+  margin-left: 200px;
 }
 
 .navigation li{
   color: White;
   display: inline-block;
+  margin-left: 30px;
+  margin-right: 30px;
 }
 
