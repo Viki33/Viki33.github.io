@@ -56,7 +56,8 @@ a.btn:hover {
   line-height: 5px;
   z-index: 1;
   color: White;
-	margin-left: 100px;
+  margin-left: 100px;
   margin-top: 7px;
+  font-style: italic;
 }
 
