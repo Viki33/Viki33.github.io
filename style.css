@@ -77,16 +77,16 @@ a.btn2:hover {
 }
 
 h1 {
-	font-style: italic;
-	font-size: 80px;
-	color: rgb(238, 231, 246);
+  font-style: italic;
+  font-size: 80px;
+  color: rgb(238, 231, 246);
 }	
 
 p {
-	color: White;
-	font-size: 30px;
-	padding-bottom: 60px;
-    font-family: "Times New Roman", Georgia, Serif;
-	font-style: italic;
+  color: White;
+  font-size: 30px;
+  padding-bottom: 60px;
+  font-family: "Times New Roman", Georgia, Serif;
+  font-style: italic;
 }	
 
