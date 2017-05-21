@@ -48,6 +48,12 @@ a.btn2:hover {
   color:#000;
   }
 
+.btn3 {
+  background-color: #1c1c1c;
+  color: #fff; 
+  text-decoration: none;
+}
+
 .navigation {
   position: fixed;
   top: 0; left: 0;
