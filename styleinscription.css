@@ -58,3 +58,13 @@ a.btn3:hover {
 	border: 5px solid lightgrey;
 	border-radius: 10px;
 }
+
+.inscription {
+	position: absolute;
+    top: 100px;
+ 	color: White;
+	margin-left: 290px;
+	padding: 134px;
+	}
+
+
