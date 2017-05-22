@@ -30,11 +30,6 @@ html, body {
   margin-right: 30px;
 }
 
-a.btn3:hover {
-  background:#ffa800;
-  color:#000;
-  }
-
 .logo {
   position: absolute;
   top: 0; left: 0;
