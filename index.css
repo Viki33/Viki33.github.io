@@ -1,0 +1,21 @@
+.Titre {
+    color: rgb(4, 56, 99);
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.soustitre {
+    text-align: center;
+    color: rgb(10, 77, 179);
+    margin-bottom: 50px;
+}
+
+h3 {
+    text-align: center;
+}
+
+div.border { 
+    border-bottom: 1px solid #000; 
+    margin-bottom: 20px;
+}
+
